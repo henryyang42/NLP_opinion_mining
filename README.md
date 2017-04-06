@@ -20,7 +20,7 @@ extract aspect-specific opinions like:
 ### Data
 
 - **aspect_review.txt** - small review dataset with aspect-polarity labels
-- **polarity_review.txt** - large review dataset with only polarity labels 
+- **polarity_review.txt** - large review dataset with only polarity labels
 - **NTUSD_pos.txt / NTUSD_neg.txt** - sentiment dictionary
 - **aspect_term.txt** - example terms that refer to certain aspect
 - **test_review.txt** - test reviews to extract aspect-specific opinions
