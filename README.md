@@ -26,3 +26,9 @@ extract aspect-specific opinions like:
 - **test_review.txt** - test reviews to extract aspect-specific opinions
 - **test.csv** - test questions
 - **sample_submission.csv**
+
+### Public Data Label Distribution
+
+- -1: 0.23963
+- 0: 0.57719
+- 1: 0.18318
