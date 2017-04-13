@@ -26,9 +26,16 @@ extract aspect-specific opinions like:
 - **test_review.txt** - test reviews to extract aspect-specific opinions
 - **test.csv** - test questions
 - **sample_submission.csv**
+- Preprocessed data (Segmentation)
+  - **test_seg.csv** - ``test.csv`` combine with ``test_review.txt``
+  - **aspect_review_seg.csv**
+  - **polarity_review_seg.csv**
 
 ### Public Data Label Distribution
 
-- -1: 0.23963
-- 0: 0.57719
-- 1: 0.18318
+
+| Label | Freq |
+|:-----:|:----:|
+| -1    | 0.23963 |
+| 0     | 0.57719 |
+| 1     | 0.18318 |
