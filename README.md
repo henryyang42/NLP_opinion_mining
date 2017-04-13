@@ -19,17 +19,17 @@ extract aspect-specific opinions like:
 
 ### Data
 
-- **aspect_review.txt** - small review dataset with aspect-polarity labels
-- **polarity_review.txt** - large review dataset with only polarity labels
-- **NTUSD_pos.txt / NTUSD_neg.txt** - sentiment dictionary
-- **aspect_term.txt** - example terms that refer to certain aspect
-- **test_review.txt** - test reviews to extract aspect-specific opinions
-- **test.csv** - test questions
-- **sample_submission.csv**
+- **[aspect_review.txt](data/aspect_review.txt)** - small review dataset with aspect-polarity labels
+- **[polarity_review.txt](data/polarity_review.txt)** - large review dataset with only polarity labels
+- **[NTUSD_pos.txt](data/NTUSD_pos.txt) / [NTUSD_neg.txt](data/NTUSD_neg.txt)** - sentiment dictionary
+- **[aspect_term.txt](data/aspect_term.txt)** - example terms that refer to certain aspect
+- **[test_review.txt](data/test_review.txt)** - test reviews to extract aspect-specific opinions
+- **[test.csv](data/test.csv)** - test questions
+- **[sample_submission.csv](data/sample_submission.csv)**
 - Preprocessed data (Segmentation)
-  - **test_seg.csv** - ``test.csv`` combine with ``test_review.txt``
-  - **aspect_review_seg.csv**
-  - **polarity_review_seg.csv**
+  - **[test_seg.csv](data/test_seg.csv)** - ``test.csv`` combine with ``test_review.txt``
+  - **[aspect_review\_seg.csv](data/aspect_review_seg.csv)**
+  - **[polarity_review\_seg.csv](data/polarity_review_seg.csv)**
 
 ### Public Data Label Distribution
 
