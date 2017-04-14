@@ -30,6 +30,10 @@ extract aspect-specific opinions like:
   - **[test_seg.csv](data/test_seg.csv)** - ``test.csv`` combine with ``test_review.txt``
   - **[aspect_review\_seg.csv](data/aspect_review_seg.csv)**
   - **[polarity_review\_seg.csv](data/polarity_review_seg.csv)**
+- Preprocessed data (Segmentation & Pos tagged)
+  - **[test_posseg.csv](data/test_posseg.csv)** - ``test.csv`` combine with ``test_review.txt``
+  - **[aspect_review\_posseg.csv](data/aspect_review_posseg.csv)**
+  - **[polarity_review\_posseg.csv](data/polarity_review_posseg.csv)**
 
 ### Public Data Label Distribution
 
